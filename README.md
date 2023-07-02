@@ -16,10 +16,10 @@ In our case, we will do it with common products on websites like Google Shopping
 
 What do we have available?
 
--Product spreadsheet with the product names, maximum price, minimum price (to avoid "wrong" products or "too good to be true" prices), and the terms we want to avoid in our searches.
+- Product spreadsheet with the product names, maximum price, minimum price (to avoid "wrong" products or "too good to be true" prices), and the terms we want to avoid in our searches.
 
 What should we do:
 
--Search for each product on Google Shopping and retrieve all results that have prices within the range and are the correct products.
--Do the same for Buscapé.
--Send an email to your email address with the notification and a table containing the items and prices found, along with the purchase link.
+- Search for each product on Google Shopping and retrieve all results that have prices within the range and are the correct products.
+- Do the same for Buscapé.
+- Send an email to your email address with the notification and a table containing the items and prices found, along with the purchase link.
